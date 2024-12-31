@@ -1,3 +1,4 @@
 # CODESOFT2
-web development /n
+web development 
+
 task 2 landing page
